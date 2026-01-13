@@ -31,3 +31,21 @@ A simple and clean Todo application built using Spring Boot and React.
 - Backend runs on port 8080
 - Frontend runs on port 3000
 ```
+
+## Screenshots
+
+### Todo-list Dashboard
+
+![Todo-List](screenshots/todo-list.png)
+
+### Add Todo
+
+![Add Todo](screenshots/add-todo.png)
+
+### Todo List
+
+![Todo List](screenshots/todo-list.png)
+
+### Delete Todo
+
+![Delete Todo](screenshots/delete-todo.png)
