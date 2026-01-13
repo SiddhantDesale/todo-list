@@ -42,9 +42,9 @@ A simple and clean Todo application built using Spring Boot and React.
 
 ![Add Todo](screenshots/add-todo.png)
 
-### Todo List
+### Todo Complete
 
-![Todo List](screenshots/todo-list.png)
+![Todo Complete](screenshots/todo-complete.png)
 
 ### Delete Todo
 
